@@ -1,0 +1,26 @@
+_repo: Helen-of-the-Old-House_9410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Helen of the Old House
+url: http://www.gutenberg.org/ebooks/9410
