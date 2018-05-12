@@ -1,5 +1,8 @@
 _repo: Helen-of-the-Old-House_9410
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, Harold Bell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1146
     wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9410#Helen-of-the-Old-House
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
